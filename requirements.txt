@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+seaborn
+matplotlib
+dagshub
+mlflow
+ydata-profiling
