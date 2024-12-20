@@ -38,7 +38,7 @@ if st.button("Predict"):
         predicted_species = response.json()
         
         # Display the predicted species
-        st.success(predicted_species)
+        st.success(predicted_species[0])
     
     except requests.exceptions.RequestException as e:
         st.error(f"Error occurred: {e}")
