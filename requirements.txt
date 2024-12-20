@@ -1,7 +1,11 @@
+numpy==2.0
+matplotlib=3.9.4
+setuptools
+ydata-profiling
 pandas
 scikit-learn
 seaborn
-matplotlib
+
+xgboost
 dagshub
 mlflow
-ydata-profiling
